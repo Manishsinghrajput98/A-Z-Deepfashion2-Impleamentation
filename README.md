@@ -1,4 +1,4 @@
-(1). Please change Line Number 114 for ( you want to select number of images for training).
+(1). Please change Line Number 114 for ( you want to select number of images for training). (train 1,91,961 , val 32,153)
 
 (2). Line Number 118 and 119 Path for ( your unzip train and validation folder path according your system).
 
